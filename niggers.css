@@ -1,0 +1,38 @@
+*{
+    align-content: center;
+    text-align: center;
+    background-color: #171c24;
+    color: aliceblue;
+    font-size: 30px;
+}
+nav{
+    background-color:#28333d;
+    height: 40px;
+  }
+  .nav{
+    padding: 3px;
+    position:relative;
+    top: 5;
+    color:white;
+    background-color:#28333d;
+  }
+  .nav:hover{
+     padding: 3px;
+    position:relative;
+    top: 5;
+    background-color:#1a232b;
+  }
+  header
+  ,body{
+    margin: 0px;
+    padding: 0px;
+  }
+.Monke{
+  height: 325px;
+}
+article{
+  font-size: 25px;
+}
+h1{
+  font-size: 50px;
+}
